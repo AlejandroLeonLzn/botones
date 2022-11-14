@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="Botonnuevo" parent="Widget.AppCompat.Button.Borderless">
+    <item name="android:backgroundTint">#CDDC39</item>
+<item name="android:textSize">28sp</item>
+<item name="android:textColor">#F44336</item>
+<item name="android:textAllCaps">true</item>
+    <item name="android:paddingLeft">15dp</item>
+    <item name="android:paddingRight">15dp</item>
+</style>
+
+    <style name="CampoTexto1" parent="Theme.AppCompat.Light"> <item name="colorControlNormal">#FF0000</item>
+        <item name="colorControlActivated">#39008e</item> <item name="android:textColorHighlight">#E1BEE7</item> <item name="android:gravity">center</item>
+    </style>
+
+
+</resources>
